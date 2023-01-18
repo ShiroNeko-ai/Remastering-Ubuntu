@@ -7,7 +7,7 @@ Install Remastering Ubuntu 20.04 dengan Cubic:
 	sudo apt install cubic
 
 2. Buat folder untuk Cubic
-	mkdir -p /home/nabkhans/BM-Nux
+	mkdir -p /home/ubuntu-neon
 
 3. Buka Cubic lalu pilih folder Cubic yang telah dibuat sebelumnya, kemudian masukkan iso yang ingin di customize lalu atur versi, nama, direktori, volume, id, release, dan disk name sesuai yang diinginkan.
 
