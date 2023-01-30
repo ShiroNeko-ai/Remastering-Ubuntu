@@ -11,11 +11,14 @@ Install Remastering Ubuntu 20.04 dengan Cubic:
 
 3. Buka Cubic lalu pilih folder Cubic yang telah dibuat sebelumnya, kemudian masukkan iso yang ingin di customize lalu atur versi, nama, direktori, volume, id, release, dan disk name sesuai yang diinginkan.
 
+4. tambah repo
+   add-apt-repository universe 
+   add-apt-repository multiverse 
+   apt update
+
 4. Install aplikasi
 	a. Python 3.x
 		apt install python3
-	b. Apache Server
-		apt install apache2
 	c. Dia Diagram Editor
 		apt install dia
 	d. Scilab
